@@ -1,4 +1,4 @@
-###Primeiro trabalho prático de algoritmos e estrutura de dados. 
+### Primeiro trabalho prático de algoritmos e estrutura de dados. 
 # Regras Específicas
 - **Objetivo**: Criar um programa de calculadora para operações especiais.
 - **Menu**: Interface textual com `switch` para seleção de operações ou saída.
